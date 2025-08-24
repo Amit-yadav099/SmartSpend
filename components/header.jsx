@@ -14,7 +14,7 @@ const Header = async () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
           <Image
-            src={"/logo.png"}
+            src={"/smartLogo-sm.png"}
             alt="SmartSpend Logo"
             width={200}
             height={60}
