@@ -2,17 +2,7 @@
 
 import { useState, useEffect, useMemo } from "react";
 import {
-  ChevronDown,
-  ChevronUp,
-  MoreHorizontal,
-  Trash,
-  Search,
-  X,
-  ChevronLeft,
-  ChevronRight,
-  RefreshCw,
-  Clock,
-} from "lucide-react";
+  ChevronDown,ChevronUp,MoreHorizontal,Trash,Search,X,ChevronLeft,ChevronRight,RefreshCw,Clock,}  from "lucide-react";
 import { format } from "date-fns";
 import { toast } from "sonner";
 
@@ -201,6 +191,7 @@ export function TransactionTable({ transactions }) {
       {deleteLoading && (
         <BarLoader className="mt-4" width={"100%"} color="#9333ea" />
       )}
+
       {/* Filters */}
       <div className="flex flex-col sm:flex-row gap-4">
         <div className="relative flex-1">
@@ -303,7 +294,9 @@ export function TransactionTable({ transactions }) {
                     ))}
                 </div>
               </TableHead>
+
               <TableHead>Description</TableHead>
+              
               <TableHead
                 className="cursor-pointer"
                 onClick={() => handleSort("category")}
@@ -318,6 +311,7 @@ export function TransactionTable({ transactions }) {
                     ))}
                 </div>
               </TableHead>
+
               <TableHead
                 className="cursor-pointer text-right"
                 onClick={() => handleSort("amount")}
@@ -332,6 +326,7 @@ export function TransactionTable({ transactions }) {
                     ))}
                 </div>
               </TableHead>
+              
               <TableHead>Recurring</TableHead>
               <TableHead className="w-[50px]" />
             </TableRow>
