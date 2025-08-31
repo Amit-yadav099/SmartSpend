@@ -33,7 +33,7 @@ Build a Full Stack AI Finance Platform that demonstrates how to combine modern t
 
   -  Handles routing, server functions, and API integration seamlessly.
 
-- **[Supabase]()** : An open-source Firebase alternative.
+- **[Supabase](https://supabase.com/dashboard/organizations)** : An open-source Firebase alternative.
 
   - Provides PostgreSQL database, authentication, storage, and real-time APIs out of the box.
 
@@ -41,32 +41,32 @@ Build a Full Stack AI Finance Platform that demonstrates how to combine modern t
 
 
 
-- **[Tailwind CSS]()** : A utility-first CSS framework that makes it easy to build responsive and modern UIs quickly.
+- **[Tailwind CSS](https://tailwindcss.com/)** : A utility-first CSS framework that makes it easy to build responsive and modern UIs quickly.
 
   - Instead of writing custom CSS, you use small utility classes like flex, p-4, bg-gray-200.
 
   - Helps create clean and consistent styling for the finance platform.
 
-- **[Prisma]()** : A next-generation ORM (Object Relational Mapper) for databases.
+- **[Prisma]()https://www.prisma.io/** : A next-generation ORM (Object Relational Mapper) for databases.
 
   - Works perfectly with Supabase’s PostgreSQL to provide type-safe database queries in JavaScript/TypeScript.
 
   - Makes working with data models and migrations simple and robust.
 
--  **[Inngest]()** : A tool for background jobs, workflows, and event-driven architecture.
+-  **[Inngest](https://www.inngest.com/)** : A tool for background jobs, workflows, and event-driven architecture.
 
    - Helps schedule recurring jobs (like finance data refresh, AI insights, or sending reports).
 
    - Runs independently of API requests, keeping the app fast and reliable.
 
-- **[ArcJet]()** : A security and compliance toolkit for modern apps.
+- **[ArcJet](https://arcjet.com/)** : A security and compliance toolkit for modern apps.
 
   - Protects your platform from bots, fraud, abuse, and spam.
 
   - Important for financial platforms where data security and compliance are critical.
 
 
-- **[Shadcn UI]()** : A collection of beautifully styled, accessible UI components built with Tailwind CSS and Radix UI.
+- **[Shadcn UI](https://ui.shadcn.com/)** : A collection of beautifully styled, accessible UI components built with Tailwind CSS and Radix UI.
 
   - Provides production-ready components like modals, tables, dropdowns, and forms.
 
