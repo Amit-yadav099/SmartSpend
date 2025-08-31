@@ -90,21 +90,21 @@ export const testimonialsData = [
   {
     name: "sunita goyal",
     role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "/testimonials/sunita.jpg",
     quote:
       "SmartSpend has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
     name: "kattapa",
     role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "/testimonials/kattapa.jpg",
     quote:
       "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
   },
   {
     name: "nikki kant",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    image: "/testimonials/nikki.jpg",
     quote:
       "I recommend SmartSpend to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
   },
