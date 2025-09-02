@@ -47,7 +47,7 @@ Developed a modern AI-powered finance platform with secure authentication, real-
 
   - Helps create clean and consistent styling for the finance platform.
 
-- **[Prisma]()https://www.prisma.io/** : A next-generation ORM (Object Relational Mapper) for databases.
+- **[Prisma](https://www.prisma.io/)** : A next-generation ORM (Object Relational Mapper) for databases.
 
   - Works perfectly with Supabase’s PostgreSQL to provide type-safe database queries in JavaScript/TypeScript.
 
