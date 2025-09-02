@@ -23,7 +23,7 @@
 
 ## <a name="introduction">✨ Introduction</a>
 
-Build a Full Stack AI Finance Platform that demonstrates how to combine modern tools for frontend, backend, database, authentication, background jobs, AI security, and UI design into one cohesive application.
+Developed a modern AI-powered finance platform with secure authentication, real-time transaction management, smart budgeting, and event-driven automation using Next.js, Supabase, Prisma, ArcJet, Inngest, and Tailwind + Shadcn UI.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
