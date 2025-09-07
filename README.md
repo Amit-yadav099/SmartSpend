@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <h1 align="center">Full Stack AI Finance Tracker</h1>
+    <h1 align="center">AI-Powered Finance Tracker</h1>
 <img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="./public/Screenshot (133).png">
 <br />
 
